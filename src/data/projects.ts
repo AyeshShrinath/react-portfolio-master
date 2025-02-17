@@ -25,21 +25,21 @@ export const projectsData: ProjectItem[] = [
   },
   {
     title: "Remote Book Donation Mobile App",
-    description: "A Calendly clone for seamless meeting scheduling",
+    description: "Book donations can be done through hand on or purchasing.",
     image: "image1.jpg",
     tech: ["Anroid Studio", "Java"],
     github: "https://github.com/AyeshShrinath",
     details: {
-      problem: "Complex meeting scheduling across time zones",
+      problem: "BookBridge is focusing on financially unstable schools and students.",
       solution:
-        "Created an intuitive scheduling platform with automated time zone handling",
+        "Enhance the education and schools,Less time consuming,Secured book donation",
       features: [
-        "Multiple calendar integration",
-        "Custom availability rules",
-        "Automated reminders",
-        "Team scheduling",
+        "Donation Tracker",
+        "Donate Book details include QR code Generator(Check your book donation through QR code)",
+        "location based book donation(Nearby schools)",
+        "purschase books to donate through online payment",
       ],
-      impact: "Reduced meeting scheduling time by 80% for users",
+      impact: "helping students to get the books they need",
     },
   },
   {

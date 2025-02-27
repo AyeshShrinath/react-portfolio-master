@@ -44,7 +44,7 @@ export const projectsData: ProjectItem[] = [
   },
   {
     title: "Smart HealthCare System",
-    description: "A Jira-inspired project management solution",
+    description: "apinmet issuse and doctor appointment handling",
     image: "medicare.png",
     tech: ["JAVA","sql"],
     github: "https://github.com/AyeshShrinath",

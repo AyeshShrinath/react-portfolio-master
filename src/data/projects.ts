@@ -44,7 +44,7 @@ export const projectsData: ProjectItem[] = [
   },
   {
     title: "Smart HealthCare System",
-    description: "apinmet issuse and doctor appointment handling",
+    description: "",
     image: "medicare.png",
     tech: ["JAVA","sql"],
     github: "https://github.com/AyeshShrinath",
@@ -65,7 +65,7 @@ export const projectsData: ProjectItem[] = [
   },
   {
     title: "Sinhala To English Translator",
-    description: "A minimalist journaling application",
+    description: "",
     image: "translate.png",
     tech: ["Java Script", "Tailwind CSS", "API"],
     github: "https://github.com/AyeshShrinath",
@@ -85,7 +85,7 @@ export const projectsData: ProjectItem[] = [
   },
   {
     title: "Task Management System",
-    description: "A Jira-inspired project management solution",
+    description: "",
     image: "image1.jpg",
     tech: ["kotlin"],
     github: "https://github.com/AyeshShrinath",
@@ -105,7 +105,7 @@ export const projectsData: ProjectItem[] = [
   },
   {
     title: "Online Food Ordering System",
-    description: "A minimalist journaling application",
+    description: "",
     image: "food.jpeg",
     tech: ["Java Script", "Tailwind CSS", "API"],
     github: "https://github.com/AyeshShrinath",

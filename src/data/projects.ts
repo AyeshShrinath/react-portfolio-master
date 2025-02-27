@@ -46,20 +46,21 @@ export const projectsData: ProjectItem[] = [
     title: "Smart HealthCare System",
     description: "A Jira-inspired project management solution",
     image: "medicare.png",
-    tech: ["React", "Redux", "Node.js", "PostgreSQL"],
+    tech: ["JAVA","sql"],
     github: "https://github.com/AyeshShrinath",
     
     details: {
-      problem: "Need for a simplified project management tool for small teams",
+      problem: "appinmet issuse and doctor appointment handling",
       solution:
-        "Developed a streamlined alternative to complex enterprise tools",
+        "Appoinment handling and doctor appointment handling",
       features: [
-        "Kanban and Scrum boards",
-        "Sprint planning",
-        "Time tracking",
-        "Performance analytics",
+        "Patient registration",
+        "Doctor registration",
+        "Appoinment handling",
+        "Medicine handling",
+        
       ],
-      impact: "Helping teams increase productivity by 40%",
+      impact: "Heleping patients to get the appoinment easily",
     },
   },
   {

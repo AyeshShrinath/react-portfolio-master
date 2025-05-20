@@ -86,7 +86,7 @@ export const projectsData: ProjectItem[] = [
   {
     title: "Task Management System",
     description: "",
-    image: "image1.jpg",
+    image: "",
     tech: ["kotlin"],
     github: "https://github.com/AyeshShrinath",
     

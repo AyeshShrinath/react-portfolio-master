@@ -11,7 +11,7 @@ const skills = [
   {
     category: 'Backend Development',
     icon: Server,
-    skills: ['Node.js', 'Express', 'REST APIs'],
+    skills: ['Node.js', 'Express', 'REST APIs','Spring Boot'],
   },
   {
     category: 'Database',
